@@ -1,0 +1,4 @@
+.page-intro {
+  color: red;
+  font-size: 32rpx;
+}
